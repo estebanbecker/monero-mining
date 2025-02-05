@@ -1,0 +1,79 @@
+ * ABOUT        XMRig/6.22.2 gcc/12.2.0 (built for Linux ARMv8, 64 bit)
+ * LIBS         libuv/1.44.2 OpenSSL/3.0.15 hwloc/2.9.0
+ * HUGE PAGES   unavailable
+ * 1GB PAGES    unavailable
+ * CPU          ARM Cortex-A76 (1) 64-bit AES
+                L2:2.0 MB L3:2.0 MB 4C/4T NUMA:1
+ * MEMORY       1.1/7.9 GB (14%)
+ * DONATE       1%
+ * POOL #1      gulf.moneroocean.stream:10128 algo auto
+ * COMMANDS     hashrate, pause, resume, results, connection
+ * OPENCL       disabled
+ * CUDA         disabled
+[2025-02-05 11:07:15.867]  net      use pool gulf.moneroocean.stream:10128  152.53.121.6
+[2025-02-05 11:07:15.868]  net      new job from gulf.moneroocean.stream:10128 diff 1280K algo rx/0 height 3341055 (22 tx)
+[2025-02-05 11:07:15.868]  cpu      use argon2 implementation default
+[2025-02-05 11:07:15.868]  randomx  init dataset algo rx/0 (4 threads) seed a2dd7013e95c29c5...
+[2025-02-05 11:07:15.868]  randomx  allocated 2336 MB (2080+256) huge pages 0% 0/1168 +JIT (0 ms)
+[2025-02-05 11:07:17.786]  net      new job from gulf.moneroocean.stream:10128 diff 1280K algo rx/0 height 3341055 (35 tx)
+[2025-02-05 11:07:32.373]  randomx  dataset ready (16505 ms)
+[2025-02-05 11:07:32.373]  cpu      use profile  rx  (4 threads) scratchpad 2048 KB
+[2025-02-05 11:07:32.378]  cpu      READY threads 4/4 (4) huge pages 0% 0/4 memory 8192 KB (5 ms)
+[2025-02-05 11:07:33.690]  net      new job from gulf.moneroocean.stream:10128 diff 1280K algo rx/0 height 3341056 (7 tx)
+[2025-02-05 11:07:43.789]  net      new job from gulf.moneroocean.stream:10128 diff 1280K algo rx/0 height 3341056 (12 tx)
+[2025-02-05 11:08:13.957]  net      new job from gulf.moneroocean.stream:10128 diff 1280K algo rx/0 height 3341056 (31 tx)
+[2025-02-05 11:08:29.026]  net      new job from gulf.moneroocean.stream:10128 diff 1280K algo rx/0 height 3341056 (38 tx)
+[2025-02-05 11:08:32.449]  miner    speed 10s/60s/15m 281.6 n/a n/a H/s max 282.2 H/s
+[2025-02-05 11:08:49.450]  cpu      accepted (1/0) diff 1280K (205 ms)
+[2025-02-05 11:08:59.131]  net      new job from gulf.moneroocean.stream:10128 diff 1280K algo rx/0 height 3341056 (50 tx)
+[2025-02-05 11:09:29.201]  net      new job from gulf.moneroocean.stream:10128 diff 1280K algo rx/0 height 3341056 (64 tx)
+[2025-02-05 11:09:32.513]  miner    speed 10s/60s/15m 280.9 281.0 n/a H/s max 282.5 H/s
+[2025-02-05 11:09:33.546]  net      new job from gulf.moneroocean.stream:10128 diff 278912 algo rx/0 height 3341056 (64 tx)
+[2025-02-05 11:09:46.157]  net      new job from gulf.moneroocean.stream:10128 diff 278912 algo rx/0 height 3341057 (2 tx)
+[2025-02-05 11:10:10.184]  net      new job from gulf.moneroocean.stream:10128 diff 278912 algo rx/0 height 3341058 (4 tx)
+[2025-02-05 11:10:32.575]  miner    speed 10s/60s/15m 280.7 281.0 n/a H/s max 282.5 H/s
+[2025-02-05 11:10:33.536]  net      new job from gulf.moneroocean.stream:10128 diff 194254 algo rx/0 height 3341058 (4 tx)
+[2025-02-05 11:10:40.272]  net      new job from gulf.moneroocean.stream:10128 diff 194254 algo rx/0 height 3341058 (16 tx)
+[2025-02-05 11:11:10.380]  net      new job from gulf.moneroocean.stream:10128 diff 194254 algo rx/0 height 3341058 (40 tx)
+[2025-02-05 11:11:32.639]  miner    speed 10s/60s/15m 280.7 281.0 n/a H/s max 282.5 H/s
+[2025-02-05 11:11:33.532]  net      new job from gulf.moneroocean.stream:10128 diff 149027 algo rx/0 height 3341058 (40 tx)
+[2025-02-05 11:11:37.262]  net      new job from gulf.moneroocean.stream:10128 diff 149027 algo rx/0 height 3341059 (6 tx)
+[2025-02-05 11:12:02.506]  net      new job from gulf.moneroocean.stream:10128 diff 149027 algo rx/0 height 3341059 (21 tx)
+[2025-02-05 11:12:32.705]  miner    speed 10s/60s/15m 280.9 280.9 n/a H/s max 282.5 H/s
+[2025-02-05 11:13:03.031]  net      gulf.moneroocean.stream:10128 read error: "connection reset by peer"
+[2025-02-05 11:13:03.031]  net      no active pools, stop mining
+[2025-02-05 11:13:14.142]  net      use pool gulf.moneroocean.stream:10128  152.53.121.6
+[2025-02-05 11:13:14.142]  net      new job from gulf.moneroocean.stream:10128 diff 1280K algo rx/0 height 3341061 (1 tx)
+[2025-02-05 11:13:30.346]  net      new job from gulf.moneroocean.stream:10128 diff 1280K algo rx/0 height 3341061 (18 tx)
+[2025-02-05 11:13:32.790]  miner    speed 10s/60s/15m 280.3 228.5 n/a H/s max 282.5 H/s
+[2025-02-05 11:14:00.462]  net      new job from gulf.moneroocean.stream:10128 diff 1280K algo rx/0 height 3341061 (45 tx)
+[2025-02-05 11:14:30.490]  net      new job from gulf.moneroocean.stream:10128 diff 1280K algo rx/0 height 3341061 (68 tx)
+[2025-02-05 11:14:32.854]  miner    speed 10s/60s/15m 281.3 281.0 n/a H/s max 282.5 H/s
+[2025-02-05 11:14:45.583]  net      new job from gulf.moneroocean.stream:10128 diff 1280K algo rx/0 height 3341061 (76 tx)
+[2025-02-05 11:15:15.700]  net      new job from gulf.moneroocean.stream:10128 diff 1280K algo rx/0 height 3341061 (100 tx)
+[2025-02-05 11:15:32.921]  miner    speed 10s/60s/15m 281.3 281.2 n/a H/s max 282.5 H/s
+[2025-02-05 11:15:40.902]  net      new job from gulf.moneroocean.stream:10128 diff 1280K algo rx/0 height 3341061 (124 tx)
+[2025-02-05 11:15:56.450]  net      new job from gulf.moneroocean.stream:10128 diff 946653 algo rx/0 height 3341061 (124 tx)
+[2025-02-05 11:16:10.896]  net      new job from gulf.moneroocean.stream:10128 diff 946653 algo rx/0 height 3341061 (122 tx)
+[2025-02-05 11:16:32.979]  miner    speed 10s/60s/15m 281.3 281.0 n/a H/s max 282.5 H/s
+[2025-02-05 11:16:41.011]  net      new job from gulf.moneroocean.stream:10128 diff 946653 algo rx/0 height 3341061 (123 tx)
+[2025-02-05 11:16:56.456]  net      new job from gulf.moneroocean.stream:10128 diff 511062 algo rx/0 height 3341061 (123 tx)
+[2025-02-05 11:17:10.938]  net      new job from gulf.moneroocean.stream:10128 diff 511062 algo rx/0 height 3341062 (47 tx)
+[2025-02-05 11:17:27.961]  net      new job from gulf.moneroocean.stream:10128 diff 511062 algo rx/0 height 3341063 (21 tx)
+[2025-02-05 11:17:33.052]  miner    speed 10s/60s/15m 279.8 280.8 n/a H/s max 282.5 H/s
+[2025-02-05 11:17:56.435]  net      new job from gulf.moneroocean.stream:10128 diff 217257 algo rx/0 height 3341063 (21 tx)
+[2025-02-05 11:17:58.039]  net      new job from gulf.moneroocean.stream:10128 diff 217257 algo rx/0 height 3341063 (41 tx)
+[2025-02-05 11:18:33.106]  miner    speed 10s/60s/15m 281.4 280.8 n/a H/s max 282.5 H/s
+[2025-02-05 11:18:59.309]  net      gulf.moneroocean.stream:10128 read error: "connection reset by peer"
+[2025-02-05 11:18:59.310]  net      no active pools, stop mining
+[2025-02-05 11:19:05.643]  net      use pool gulf.moneroocean.stream:10128  152.53.121.6
+[2025-02-05 11:19:05.643]  net      new job from gulf.moneroocean.stream:10128 diff 1280K algo rx/0 height 3341064 (3 tx)
+[2025-02-05 11:19:25.223]  net      new job from gulf.moneroocean.stream:10128 diff 1280K algo rx/0 height 3341064 (11 tx)
+[2025-02-05 11:19:33.148]  miner    speed 10s/60s/15m 281.0 251.0 n/a H/s max 282.5 H/s
+[2025-02-05 11:19:50.508]  net      new job from gulf.moneroocean.stream:10128 diff 1280K algo rx/0 height 3341064 (30 tx)
+[2025-02-05 11:19:52.324]  net      new job from gulf.moneroocean.stream:10128 diff 1280K algo rx/0 height 3341065 (7 tx)
+[2025-02-05 11:20:22.430]  net      new job from gulf.moneroocean.stream:10128 diff 1280K algo rx/0 height 3341065 (21 tx)
+[2025-02-05 11:20:33.208]  miner    speed 10s/60s/15m 281.6 281.0 n/a H/s max 282.5 H/s
+[2025-02-05 11:20:52.614]  net      new job from gulf.moneroocean.stream:10128 diff 1280K algo rx/0 height 3341065 (40 tx)
+[2025-02-05 11:21:22.649]  net      new job from gulf.moneroocean.stream:10128 diff 1280K algo rx/0 height 3341065 (60 tx)
+[2025-02-05 11:21:33.254]  miner    speed 10s/60s/15m 286.7 283.3 n/a H/s max 287.4 H/s
