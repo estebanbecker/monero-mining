@@ -4,7 +4,7 @@
 XMRIG_URL="https://votre_serveur/chemin/vers/xmrig"
 
 # Chemin local pour le binaire xmrig
-XMRIG_PATH="/home/pi/xmrig"
+XMRIG_PATH="/var/www/html/xmrig"
 
 # Adresse du pool et adresse du portefeuille
 POOL_ADDRESS="YOUR_POOL_ADDRESS"
