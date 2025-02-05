@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Télécharger le script de minage
-wget -O /var/www/html/start_mining.sh https://raw.githubusercontent.com/votre_utilisateur/votre_depot/main/start_mining.sh
+wget -O /var/www/html/start_mining.sh https://raw.githubusercontent.com/estebanbecker/monero-mining/main/start_mining.sh
 
 # Rendre le script exécutable
 chmod +x /var/www/html/start_mining.sh
